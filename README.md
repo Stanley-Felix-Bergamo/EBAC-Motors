@@ -1,11 +1,10 @@
 # EBAC Motors
 
-<p></p>
+<p>Landing page de automóveis</p>
 
-
-<p>Saiba mais acessando o site <a href="">Clicando aki</a></p> 
+<p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Ebac-Motors/">Clicando aki</a></p> 
 <div align="center" >
-<img src="" alt="imagem">
+<img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Ebac-Motors/main/imgs/images/Mac.png" alt="imagem">
 </div>
 
 <h2>👨‍🏫 Créditos</h2>
